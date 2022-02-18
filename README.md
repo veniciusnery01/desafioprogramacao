@@ -5,7 +5,7 @@ O desafio consiste na implementação de uma solução para três problemas apre
 
 ## Tecnologia 
 
-1. Java SE
+1. Java 
 
 ## Ferramentas 
 
